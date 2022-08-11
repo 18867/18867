@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @18867
-- 👀 I’m interested in programming games with unity and unreal engine.
 - 🌱 I’m currently learning C#.
-- 💞️ I’m looking to collaborate on bulding a microworld with unity. 
+- 💞️ I’m looking to build more meaningful projects with code. 
 - 📫 How to reach me: email address liumia0706@163.com 
 
 <!---
