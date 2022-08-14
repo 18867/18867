@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @18867
 - 🌱 I’m currently learning C#.
-- 💞️ I’m looking to build more meaningful projects with code. 
+- 💞️ Talk is cheap. Show the code and document.
 - 📫 How to reach me: email address liumia0706@163.com 
 
 <!---
